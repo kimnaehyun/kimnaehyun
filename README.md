@@ -1,16 +1,18 @@
-## Hi there 👋
+📌 Frontend
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+React Native Expo Vue.js
 
-<!--
-**kimnaehyun/kimnaehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Styling
+CSS3 Sass styled-components TailwindCSS
 
-Here are some ideas to get you started:
+🔥 Languages
+JavaScript TypeScript Java Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Tools
+GitHub Notion Slack 
+
+🚀 Deployment & CI/CD
+Netlify GitHub Actions
+
+🎨 UI/UX
+Figma
